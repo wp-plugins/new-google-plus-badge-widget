@@ -4,7 +4,7 @@ Creator's website link: http://mythemeshop.com/
 Tags: google, plus, google plus, badge, widget, google widget, google plus widget, google plus badge, google plus badge widget
 Requires at least: 3.0.1
 Tested up to: 3.5.2
-Stable tag: 1.0
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
