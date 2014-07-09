@@ -2,8 +2,8 @@
 /* Plugin Name: New Google Plus Badge Widget
 Plugin URI: http://wordpress.org/plugins/new-google-plus-badge-widget/
 Description: This plugin allows you to quickly and easily add the new Google Plus badge widget to your blog running WordPress.
-Version: 1.0
-Author: Suraj Vibhute
+Version: 1.1
+Author: MyThemeShop
 Author URI: http://mythemeshop.com
 */
 
