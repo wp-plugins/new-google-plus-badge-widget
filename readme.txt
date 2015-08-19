@@ -1,10 +1,10 @@
 === New Google Plus Badge Widget ===
-Contributors: mythemeshop, suraj78
+Contributors: mythemeshop
 Creator's website link: http://mythemeshop.com/
 Tags: google, plus, google plus, badge, widget, google widget, google plus widget, google plus badge, google plus badge widget
 Requires at least: 3.0.1
-Tested up to: 4.2
-Stable tag: 1.1
+Tested up to: 4.3
+Stable tag: 1.1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -53,6 +53,13 @@ This is not currently supported as the settings must be configured in the widget
 2. Widget options.
 
 == Changelog ==
+
+= 1.1.1 =
+* Switched to PHP 5 style constructor method for the widget class
+* Updated Google script call
+
+= 1.1 =
+* Small bug fixes.
 
 = 1.0 =
 * Official plugin release.
